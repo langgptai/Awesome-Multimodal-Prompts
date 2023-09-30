@@ -21,7 +21,7 @@ We hope you find these prompts useful and have fun!
 ## Articles and Resources
 
 * [ChatGPT can now see, hear, and speak](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak)
-* [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ![GitHub Repo stars](https://badgen.net/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models) ✨✨Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation. 
+* [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ✨✨Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation. ![GitHub Repo stars](https://badgen.net/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models)
 * [ChatGPT多模态解禁，网友玩疯！拍图即生代码，古卷手稿一眼识别，图表总结超6](https://mp.weixin.qq.com/s/FfiPJpxNrQpHxmOxBpDyHg)
 
 ### Math Formula Recognition
