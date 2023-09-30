@@ -9,22 +9,32 @@ To get started, simply clone this repository and use the prompts in the README.m
 
 We hope you find these prompts useful and have fun!
 
+## Contents
+- [Contents](#contents)
+  - [Math Formula Recognition](#math-formula-recognition)
+  - [Read Doctor's Notes](#read-doctors-notes)
+  - [Code Generation from Figma screenshots](#code-generation-from-figma-screenshots)
+  - [Edit Code by Edit Image](#edit-code-by-edit-image)
+  - [Code Conversion for developer](#code-conversion-for-developer)
 
-## Math Formula Recognition
+
+### Math Formula Recognition
 
 Upload your [image of Math Formula] and then use following prompts:
 ```
 Recognize the Math Formula in the image and output in LaTex Code.
 ```
 
-## Read Doctor's Notes
+### Read Doctor's Notes
+
+> https://twitter.com/wats_updog/status/1707236519285596358
 
 Upload your [image of Doctor's Notes] and then use following prompts:
 ```
 My doctor wrote me this prescription. Please help me understand what is it for?
 ```
 
-## Code Generation from Figma screenshots
+### Code Generation from Figma screenshots
 
 > https://twitter.com/mckaywrigley/status/1707796170905661761
 
@@ -46,14 +56,14 @@ Here are your guidelines:
 
 ```
 
-## Edit Code by Edit Image
+### Edit Code by Edit Image
 
 This is a cool follow up demo of using the mobile app’s “draw on image” feature to edit the component we just generated.
 
 > https://twitter.com/mckaywrigley/status/1707801301093068880
 
 
-## Code Conversion for developer
+### Code Conversion for developer
 
 Upload your [SCREENSHOT of Python code] and then use following prompts:
 ```
