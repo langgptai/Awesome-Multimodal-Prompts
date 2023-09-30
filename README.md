@@ -1,24 +1,62 @@
 <p align="center"><h1>🧠 Awesome Multimodal Prompts </h1></p>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-[![Code License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/yzfly/awesome-chatgpt-zh/blob/main/LICENSE)
+[![Code License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/yzfly/Awesome-Multimodal-Prompts/blob/main/LICENSE)
 
-Welcome to the "Awesome Claude Prompts" repository! This is a collection of prompt examples to be used with the Claude model.
+Welcome to the "Awesome Multimodal Prompts" repository! This is a collection of prompt examples to be used with the Multimodal LLM (GPT-4V).
 
-The [Claude](https://claude.ai/) model is an AI assistant created by [Anthropic](https://anthropic.com/) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt. 
+To get started, simply clone this repository and use the prompts in the README.md file as input for [GPT-4V](https://chat.openai.com/). You can also use the prompts in this file as inspiration for creating your own.
 
-[Claude](https://claude.ai/) offers many amazing features that [ChatGPT](https://ai.com) does not support, such as longer contexts (up to 100k), free file uploading, etc., making it more powerful than ChatGPT. 
+We hope you find these prompts useful and have fun!
 
-In this repository, you will find a variety of prompts that can be used with Claude. We encourage you to [add your own prompts](https://github.com/yzfly/awesome-claude-prompts/edit/main/README.md) to the list, and to use Claude to generate new prompts as well.
 
-To get started, simply clone this repository and use the prompts in the README.md file as input for Claude. You can also use the prompts in this file as inspiration for creating your own.
+## Math Formula Recognition
 
-We hope you find these prompts useful and have fun using Claude!
+Upload your [image of Math Formula] and then use following prompts:
+```
+Recognize the Math Formula in the image and output in LaTex Code.
+```
 
-## Meta Prompt
+## Read Doctor's Notes
 
-from: [Chinese panpan](https://aq92z6vors3.feishu.cn/wiki/WDfzwfTKwi1lyAkBcoCcu0sUnPc)
+Upload your [image of Doctor's Notes] and then use following prompts:
+```
+My doctor wrote me this prescription. Please help me understand what is it for?
+```
+
+## Code Generation from Figma screenshots
+
+> https://twitter.com/mckaywrigley/status/1707796170905661761
+
+Upload your [SCREENSHOT of Figma] and then use following prompts:
+
+```
+I need you to do the following things:
+
+1.Create the pictured component
+2. Also create the tab for the passsword flow
+- Should indlude password and confirm press
+- Should have functlonality to check that they are the same
+3. The component should look exactly like the one shown and include all of its components.
+
+Here are your guidelines:
+- Use Nodejs (the app is already set up)
+- Use Tallwind CSS for styiing.
+- Use TypeScript.
 
 ```
 
+## Edit Code by Edit Image
+
+This is a cool follow up demo of using the mobile app’s “draw on image” feature to edit the component we just generated.
+
+> https://twitter.com/mckaywrigley/status/1707801301093068880
+
+
+## Code Conversion for developer
+
+Upload your [SCREENSHOT of Python code] and then use following prompts:
 ```
+Convert a SCREENSHOT of Python code to Javascript.
+```
+
