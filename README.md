@@ -11,12 +11,17 @@ We hope you find these prompts useful and have fun!
 
 ## Contents
 - [Contents](#contents)
+- [Articles and Resources](#articles-and-resources)
   - [Math Formula Recognition](#math-formula-recognition)
   - [Read Doctor's Notes](#read-doctors-notes)
   - [Code Generation from Figma screenshots](#code-generation-from-figma-screenshots)
   - [Edit Code by Edit Image](#edit-code-by-edit-image)
   - [Code Conversion for developer](#code-conversion-for-developer)
 
+## Articles and Resources
+
+* [ChatGPT can now see, hear, and speak](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak)
+* [ChatGPT多模态解禁，网友玩疯！拍图即生代码，古卷手稿一眼识别，图表总结超6](https://mp.weixin.qq.com/s/FfiPJpxNrQpHxmOxBpDyHg)
 
 ### Math Formula Recognition
 
