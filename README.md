@@ -22,6 +22,7 @@ We hope you find these prompts useful and have fun!
 
 * [ChatGPT can now see, hear, and speak](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak)
 * [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ✨✨Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation. ![GitHub Repo stars](https://badgen.net/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models)
+* [试过GPT-4V后，微软写了个166页的测评报告，业内人士：高级用户必读](https://mp.weixin.qq.com/s/8FtR6JcEFVcRLWCaANXQ6g) 论文中文版 [PDF](papers/GPT-4V-zh.pdf)
 * [ChatGPT多模态解禁，网友玩疯！拍图即生代码，古卷手稿一眼识别，图表总结超6](https://mp.weixin.qq.com/s/FfiPJpxNrQpHxmOxBpDyHg)
 * [AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model](https://huggingface.co/papers/2309.16058) We present Any-Modality Augmented Language Model (AnyMAL), a unified model that reasons over diverse input modality signals (i.e. text, image, video, audio, IMU motion sensor), and generates textual responses.
 
