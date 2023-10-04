@@ -12,12 +12,24 @@ We hope you find these prompts useful and have fun!
 ## Contents
 - [Contents](#contents)
 - [Articles and Resources](#articles-and-resources)
+- [Images](#images)
   - [Math Formula Recognition](#math-formula-recognition)
   - [Read Doctor's Notes](#read-doctors-notes)
   - [Code Generation from Figma screenshots](#code-generation-from-figma-screenshots)
   - [Edit Code by Edit Image](#edit-code-by-edit-image)
   - [Code Conversion for developer](#code-conversion-for-developer)
-- [Write a poem for my picture](#write-a-poem-for-my-picture)
+  - [Write a poem for my picture](#write-a-poem-for-my-picture)
+  - [Extract structured data from images](#extract-structured-data-from-images)
+  - [Visual Referring Prompting](#visual-referring-prompting)
+  - [Landmark Recognition and Description](#landmark-recognition-and-description)
+  - [Object Localization](#object-localization)
+  - [Scene Text Recognition](#scene-text-recognition)
+  - [Flow Chart Understanding and Coding](#flow-chart-understanding-and-coding)
+  - [Safety Inspection for Industry](#safety-inspection-for-industry)
+  - [Science and Knowledge](#science-and-knowledge)
+- [Videos](#videos)
+  - [Video Understanding](#video-understanding)
+- [Audios](#audios)
 
 ## Articles and Resources
 
@@ -28,6 +40,7 @@ We hope you find these prompts useful and have fun!
 * [ChatGPT多模态解禁，网友玩疯！拍图即生代码，古卷手稿一眼识别，图表总结超6](https://mp.weixin.qq.com/s/FfiPJpxNrQpHxmOxBpDyHg)
 * [AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model](https://huggingface.co/papers/2309.16058) We present Any-Modality Augmented Language Model (AnyMAL), a unified model that reasons over diverse input modality signals (i.e. text, image, video, audio, IMU motion sensor), and generates textual responses.
 
+## Images
 ### Math Formula Recognition
 
 Upload your [image of Math Formula] and then use following prompts:
@@ -80,8 +93,105 @@ Upload your [SCREENSHOT of Python code] and then use following prompts:
 Convert a SCREENSHOT of Python code to Javascript.
 ```
 
-## Write a poem for my picture
+### Write a poem for my picture
 
-Ise following prompts and then upload your [PICTURE]:
+Use following prompts and then upload your [PICTURE]:
 
-> Please describe the image with as many details as possible, then write a poem for my picture.
+```
+Please describe the image with as many details as possible, then write a poem for my picture.
+```
+
+### Extract structured data from images
+
+> from paper《The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)》
+Use following prompts and then upload your [PICTURE]:
+```
+Please read the text in this image and return the information in the following JSON format (note xxx is placeholder, if the information is not available in the image, put "N/A" instead). {"Surname": xxx, "Given Name": xxx, "USCIS #": xxx, "Category": xxx, "Country of Birth": xxx, "Date of Birth": xxx, "SEX": xxx, "Card Expires": xxx, "Resident Since": xxx}
+```
+![json_data](imgs/json_data.png)
+
+### Visual Referring Prompting
+
+GPT-4V demonstrates the unique capability of understanding visual pointing directly overlaid on images. Based on such capability, you can explore visual referring prompting that edits input image pixels (e.g., drawing visual pointers and scene texts) to prompt the task of interest.
+
+> from paper 《The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)》
+
+Use following prompts and then upload your edited [PICTURE]:
+```
+Describe the pointed region in the image.
+```
+
+![VisualReferringPrompting](imgs/tableAnalysis.png)
+
+
+### Landmark Recognition and Description
+
+> from paper 《The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)》
+
+Use following prompts and then upload your edited [PICTURE]:
+```
+Describe the landmark in the image.
+```
+![landMark](imgs/landMark.png)
+
+### Object Localization
+
+> from paper 《The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)》
+
+Use following prompts and then upload your [PICTURE]:
+```
+Localize each person in the image using bounding box. What is the image size of the input image?
+```
+
+![ObjectLocalization](imgs/localize_persons.png)
+
+### Scene Text Recognition
+> from paper 《The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)》
+
+Use following prompts and then upload your [PICTURE]:
+```
+What are all the scene text in the image?
+```
+![char_recognition](imgs/char_recognition.png)
+
+### Flow Chart Understanding and Coding
+
+> from paper 《The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)》
+
+Use following prompts and then upload your Flow Chart [PICTURE]:
+```
+Can you translate the flowchart to a python code?
+```
+![char_recognition](imgs/flowchart_coding.png)
+
+### Safety Inspection for Industry
+Use following prompts and then upload your [PICTURES]:
+```
+Please determine whether the person in the image wears a helmet or not. And summarize how many people are wearing helmets.
+```
+![Safety Inspection for Industry](imgs/safety.png)
+
+### Science and Knowledge
+> from paper 《The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)》
+
+![knowledge](imgs/knowledge.png)
+
+
+## Videos
+
+GPT-4V can accurately comprehend and analyze sequences
+of video frames. Within this frame-by-frame analysis, GPT-4V recognizes the scene in which the activity is taking place, delivering a deeper contextual understanding.
+
+### Video Understanding
+
+> from paper 《The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)》
+
+Use following prompts and then upload your [VIDEO FRAMES]:
+```
+Predict what will happen next based on the images.
+```
+![Temporal Anticipation](imgs/TemporalAnticipation.png)
+
+## Audios
+
+TBD
