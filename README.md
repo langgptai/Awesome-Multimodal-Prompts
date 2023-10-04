@@ -74,7 +74,7 @@ I need you to do the following things:
 
 Here are your guidelines:
 - Use Nodejs (the app is already set up)
-- Use Tallwind CSS for styiing.
+- Use Tallwind CSS for styling.
 - Use TypeScript.
 
 ```
