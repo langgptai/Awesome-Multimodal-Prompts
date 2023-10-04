@@ -17,11 +17,13 @@ We hope you find these prompts useful and have fun!
   - [Code Generation from Figma screenshots](#code-generation-from-figma-screenshots)
   - [Edit Code by Edit Image](#edit-code-by-edit-image)
   - [Code Conversion for developer](#code-conversion-for-developer)
+- [Write a poem for my picture](#write-a-poem-for-my-picture)
 
 ## Articles and Resources
 
 * [ChatGPT can now see, hear, and speak](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak)
 * [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ✨✨Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation. ![GitHub Repo stars](https://badgen.net/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models)
+* [The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)](https://www.reddit.com/r/MachineLearning/comments/16xpi5o/r_the_dawn_of_lmms_preliminary_explorations_with/) 🔥
 * [试过GPT-4V后，微软写了个166页的测评报告，业内人士：高级用户必读](https://mp.weixin.qq.com/s/8FtR6JcEFVcRLWCaANXQ6g) 论文中文版 [PDF](papers/GPT-4V-zh.pdf)
 * [ChatGPT多模态解禁，网友玩疯！拍图即生代码，古卷手稿一眼识别，图表总结超6](https://mp.weixin.qq.com/s/FfiPJpxNrQpHxmOxBpDyHg)
 * [AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model](https://huggingface.co/papers/2309.16058) We present Any-Modality Augmented Language Model (AnyMAL), a unified model that reasons over diverse input modality signals (i.e. text, image, video, audio, IMU motion sensor), and generates textual responses.
@@ -78,3 +80,8 @@ Upload your [SCREENSHOT of Python code] and then use following prompts:
 Convert a SCREENSHOT of Python code to Javascript.
 ```
 
+## Write a poem for my picture
+
+Ise following prompts and then upload your [PICTURE]:
+
+> Please describe the image with as many details as possible, then write a poem for my picture.
