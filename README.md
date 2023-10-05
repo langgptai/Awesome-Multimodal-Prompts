@@ -12,6 +12,9 @@ We hope you find these prompts useful and have fun!
 ## Contents
 - [Contents](#contents)
 - [Articles and Resources](#articles-and-resources)
+- [Methods](#methods)
+  - [Multimodal CoT Prompting](#multimodal-cot-prompting)
+  - [Visual Referring Prompting](#visual-referring-prompting)
 - [Images](#images)
   - [Math Formula Recognition](#math-formula-recognition)
   - [Read Doctor's Notes](#read-doctors-notes)
@@ -20,7 +23,6 @@ We hope you find these prompts useful and have fun!
   - [Code Conversion for developer](#code-conversion-for-developer)
   - [Write a poem for my picture](#write-a-poem-for-my-picture)
   - [Extract structured data from images](#extract-structured-data-from-images)
-  - [Visual Referring Prompting](#visual-referring-prompting)
   - [Landmark Recognition and Description](#landmark-recognition-and-description)
   - [Object Localization](#object-localization)
   - [Scene Text Recognition](#scene-text-recognition)
@@ -39,6 +41,30 @@ We hope you find these prompts useful and have fun!
 * [试过GPT-4V后，微软写了个166页的测评报告，业内人士：高级用户必读](https://mp.weixin.qq.com/s/8FtR6JcEFVcRLWCaANXQ6g) 论文中文版 [PDF](papers/GPT-4V-zh.pdf)
 * [ChatGPT多模态解禁，网友玩疯！拍图即生代码，古卷手稿一眼识别，图表总结超6](https://mp.weixin.qq.com/s/FfiPJpxNrQpHxmOxBpDyHg)
 * [AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model](https://huggingface.co/papers/2309.16058) We present Any-Modality Augmented Language Model (AnyMAL), a unified model that reasons over diverse input modality signals (i.e. text, image, video, audio, IMU motion sensor), and generates textual responses.
+
+## Methods
+
+### Multimodal CoT Prompting
+
+Multimodal CoT incorporates text and vision into a two-stage framework. The first step involves rationale generation based on multimodal information. This is followed by the second phase, answer inference, which leverages the informative generated rationales.
+
+> from paper [《Multimodal Chain-of-Thought Reasoning in Language Models
+》](https://arxiv.org/abs/2302.00923)
+
+![mmCoT](imgs/mmCoT.png)
+
+### Visual Referring Prompting
+
+GPT-4V demonstrates the unique capability of understanding visual pointing directly overlaid on images. Based on such capability, you can explore visual referring prompting that edits input image pixels (e.g., drawing visual pointers and scene texts) to prompt the task of interest.
+
+> from paper 《The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)》
+
+Use following prompts and then upload your edited [PICTURE]:
+```
+Describe the pointed region in the image.
+```
+
+![VisualReferringPrompting](imgs/tableAnalysis.png)
 
 ## Images
 ### Math Formula Recognition
@@ -110,20 +136,6 @@ Please read the text in this image and return the information in the following J
 ```
 ![json_data](imgs/json_data.png)
 
-### Visual Referring Prompting
-
-GPT-4V demonstrates the unique capability of understanding visual pointing directly overlaid on images. Based on such capability, you can explore visual referring prompting that edits input image pixels (e.g., drawing visual pointers and scene texts) to prompt the task of interest.
-
-> from paper 《The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)》
-
-Use following prompts and then upload your edited [PICTURE]:
-```
-Describe the pointed region in the image.
-```
-
-![VisualReferringPrompting](imgs/tableAnalysis.png)
-
-
 ### Landmark Recognition and Description
 
 > from paper 《The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)》
@@ -176,7 +188,6 @@ Please determine whether the person in the image wears a helmet or not. And summ
 
 ![knowledge](imgs/knowledge.png)
 
-
 ## Videos
 
 GPT-4V can accurately comprehend and analyze sequences
@@ -195,3 +206,4 @@ Predict what will happen next based on the images.
 ## Audios
 
 TBD
+
