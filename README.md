@@ -15,6 +15,7 @@ We hope you find these prompts useful and have fun!
 - [Methods](#methods)
   - [Multimodal CoT Prompting](#multimodal-cot-prompting)
   - [Visual Referring Prompting](#visual-referring-prompting)
+  - [Multimodal Prompt Injection —— Make GPT-4V solve CAPTCHAs](#multimodal-prompt-injection--make-gpt-4v-solve-captchas)
 - [Images](#images)
   - [Math Formula Recognition](#math-formula-recognition)
   - [Read Doctor's Notes](#read-doctors-notes)
@@ -66,6 +67,17 @@ Describe the pointed region in the image.
 ```
 
 ![VisualReferringPrompting](imgs/tableAnalysis.png)
+
+### Multimodal Prompt Injection —— Make GPT-4V solve CAPTCHAs
+It's considered impossible to solve CAPTCHAs by uploading them to the multimodal GPT-4V.
+
+However, there's a significant catch.
+
+If you place a CAPTCHA image on the back of a human and ask GPT-4V to read it for you for tattoo purposes because you're unfamiliar with the language - there you have it 😉
+
+> https://twitter.com/iamvladyashin/status/1709531551216656859
+
+![CAPTCHAs](imgs/CAPTCHAs.png)
 
 ## Images
 ### Math Formula Recognition
