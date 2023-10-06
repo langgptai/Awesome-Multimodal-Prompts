@@ -33,6 +33,7 @@ We hope you find these prompts useful and have fun!
 - [Videos](#videos)
   - [Video Understanding](#video-understanding)
 - [Audios](#audios)
+- [Star History](#star-history)
 
 ## Articles and Resources
 
@@ -225,3 +226,7 @@ Predict what will happen next based on the images.
 ## Audios
 
 TBD
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yzfly/Awesome-Multimodal-Prompts&type=Date)](https://star-history.com/#yzfly/Awesome-Multimodal-Prompts&Date)
