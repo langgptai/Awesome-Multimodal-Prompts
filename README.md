@@ -33,6 +33,11 @@ We hope you find these prompts useful and have fun!
   - [Science and Knowledge](#science-and-knowledge)
 - [Videos](#videos)
   - [Video Understanding](#video-understanding)
+- [DALLE-3](#dalle-3)
+  - [带文字的高科技风格](#带文字的高科技风格)
+  - [粗线条插画风格](#粗线条插画风格)
+  - [可爱的描边插画风格](#可爱的描边插画风格)
+  - [可爱的涂鸦风格](#可爱的涂鸦风格)
 - [Audios](#audios)
 - [Star History](#star-history)
 
@@ -230,6 +235,51 @@ Use following prompts and then upload your [VIDEO FRAMES]:
 Predict what will happen next based on the images.
 ```
 ![Temporal Anticipation](imgs/TemporalAnticipation.png)
+
+## DALLE-3
+
+### 带文字的高科技风格
+
+提示词：
+
+Poster that written DALL-E3，Microscopic particles moving at high speed, Footage of glowing blue sequins flying, macro photography, C4d rendering, 3D rendering, black background
+
+你需要改的只有生成的文字（DALL-E3）部分，和颜色（blue）部分就行。
+
+![d3_tech_style](imgs/d3_tech_style.png)
+
+### 粗线条插画风格
+
+很适合在ppt里面使用，因为它的背景是纯色的很容易跟ppt纯色背景融合。
+
+写的时候只需要后面加上
+“Pixar style, sharpie illustration, bold lines and solid colors, simple details, minimalist”
+这部分就行，前面的改成你自己需要的画面描述。
+
+![sharpie_illustration](imgs/d3_sharpie_illustration.png)
+
+### 可爱的描边插画风格
+
+这种可爱的描边插画风格也是前几年常见的插画风格。
+
+提示词：
+```
+ “cartoon illustration, minimalist, simple and vivid lines, calm healing atmosphere, clean and fresh color, light blue background,style by sokamono”
+```
+ 
+这些词在前面加上你想要描述的画面内容就行。
+
+![cartoon_illustration](imgs/d3_cartoon_illustration.png)
+
+### 可爱的涂鸦风格
+
+提示词：
+```
+“2024”text written. Beautiful creative holiday background with fireworks and Sparkling font 2024, atmosphere; Full, cute doodle, thick line art by Mr Doodle
+```
+只需要改引号里的内容，在后面加上“atmosphere; Full, cute doodle, thick line art by Mr Doodle”就行。
+
+![cute_doodle](imgs/d3_cute_doodle.png)
 
 ## Audios
 
