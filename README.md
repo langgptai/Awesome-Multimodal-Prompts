@@ -19,6 +19,7 @@ We hope you find these prompts useful and have fun!
 - [Images](#images)
   - [Math Formula Recognition](#math-formula-recognition)
   - [Read Doctor's Notes](#read-doctors-notes)
+  - [Decode document](#decode-document)
   - [Code Generation from Figma screenshots](#code-generation-from-figma-screenshots)
   - [Edit Code by Edit Image](#edit-code-by-edit-image)
   - [Code Conversion for developer](#code-conversion-for-developer)
@@ -102,7 +103,14 @@ Upload your [image of Doctor's Notes] and then use following prompts:
 ```
 My doctor wrote me this prescription. Please help me understand what is it for?
 ```
+### Decode document
 
+> https://twitter.com/BrianRoemmele/status/1710392068772872333
+
+Upload your [image of document] and then use following prompts:
+```
+Please decode this document. Let’s think step-by-step. It is vital to be accurate. Thank you.
+```
 ### Code Generation from Figma screenshots
 
 > https://twitter.com/mckaywrigley/status/1707796170905661761
