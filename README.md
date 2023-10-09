@@ -37,6 +37,8 @@ We hope you find these prompts useful and have fun!
   - [1 prompt get all](#1-prompt-get-all)
   - [Wide and detailed Image](#wide-and-detailed-image)
   - [Pixel Art Images](#pixel-art-images)
+  - [Different settings images](#different-settings-images)
+  - [机器喵](#机器喵)
   - [带文字的高科技风格](#带文字的高科技风格)
   - [粗线条插画风格](#粗线条插画风格)
   - [可爱的描边插画风格](#可爱的描边插画风格)
@@ -268,6 +270,20 @@ Prompts:
 I want assets for a top-down pixel art rpg game on a white background. Potions and player equipment
 ```
 ![pixel_art](imgs/d3_pixel_art.png)
+
+### Different settings images
+> from https://twitter.com/francolli/status/1710869631076798568
+```
+create images of same four  people in four different settings, create all images in same realistic photography style: a dad, mum and their two little boys, in park, in the car, in the beach, in the garden
+```
+![Alt text](imgs/different_settings.png)
+
+### 机器喵
+>from https://twitter.com/iwa_no99/status/1709914985172729888
+```
+光速で移動するドラえもん
+```
+![Alt text](imgs/d3_jiqimao.png)
 
 ### 带文字的高科技风格
 > from: https://mp.weixin.qq.com/s/kzUm0fzEf_LOmOhQg3FGCg
