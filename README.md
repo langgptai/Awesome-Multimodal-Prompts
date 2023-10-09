@@ -47,6 +47,8 @@ We hope you find these prompts useful and have fun!
   - [可爱的涂鸦风格](#可爱的涂鸦风格)
   - [Ethereal aerial photograph](#ethereal-aerial-photograph)
   - [Use Seed to control the style and person](#use-seed-to-control-the-style-and-person)
+  - [Assembly Diagram](#assembly-diagram)
+  - [Hologram](#hologram)
 - [Audios](#audios)
 - [Star History](#star-history)
 
@@ -370,6 +372,22 @@ Prompts:
 ```
 seed: 666.  [Your prompts]
 ```
+
+### Assembly Diagram
+
+> from: https://twitter.com/TechTalkNAVI/status/1711404574710583583
+
+Add 'Assembly Diagram' in your prompts to generate images like following:
+
+![Alt text](imgs/d3_assembly_diagram.png)
+
+### Hologram
+
+Add 'hologram' in your prompts to generate images like following:
+
+> from: https://twitter.com/TechTalkNAVI/status/1711400987699896537
+
+![Alt text](imgs/d3_hologram.png)
 
 ## Audios
 
