@@ -38,6 +38,9 @@ We hope you find these prompts useful and have fun!
   - [粗线条插画风格](#粗线条插画风格)
   - [可爱的描边插画风格](#可爱的描边插画风格)
   - [可爱的涂鸦风格](#可爱的涂鸦风格)
+  - [ethereal aerial photograph](#ethereal-aerial-photograph)
+  - [1 prompt get all](#1-prompt-get-all)
+  - [a wide aspect extremely detailed image](#a-wide-aspect-extremely-detailed-image)
 - [Audios](#audios)
 - [Star History](#star-history)
 
@@ -280,6 +283,31 @@ Poster that written DALL-E3，Microscopic particles moving at high speed, Footag
 只需要改引号里的内容，在后面加上“atmosphere; Full, cute doodle, thick line art by Mr Doodle”就行。
 
 ![cute_doodle](imgs/d3_cute_doodle.png)
+
+### ethereal aerial photograph
+> from: https://twitter.com/HBCoop_/status/1711155080316047667
+
+Prompts:
+```
+An ethereal aerial photograph of vibrant autumn leaves spiraling in a golden tornado against an endless sky
+```
+![Alt text](imgs/d3_aerial_p1.png)
+
+### 1 prompt get all
+
+> from: https://twitter.com/itnavi2022/status/1711056366335656178
+
+Prompts: see picture
+
+![Alt text](imgs/d3_1prompt_imges.png)
+
+### a wide aspect extremely detailed image
+
+> from: https://twitter.com/OrctonAI/status/1711091040554283121
+```
+a wide aspect extremely detailed image of a scorpion in center shot
+```
+![Alt text](imgs/d3_detail.png)
 
 ## Audios
 
