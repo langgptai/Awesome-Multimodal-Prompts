@@ -41,6 +41,7 @@ We hope you find these prompts useful and have fun!
   - [ethereal aerial photograph](#ethereal-aerial-photograph)
   - [1 prompt get all](#1-prompt-get-all)
   - [a wide aspect extremely detailed image](#a-wide-aspect-extremely-detailed-image)
+  - [pixel art](#pixel-art)
 - [Audios](#audios)
 - [Star History](#star-history)
 
@@ -313,6 +314,13 @@ a wide aspect extremely detailed image of a scorpion in center shot
 ```
 ![Alt text](imgs/d3_detail.png)
 
+### pixel art
+
+Prompts:
+```
+I want assets for a top-down pixel art rpg game on a white background. Potions and player equipment
+```
+![pixel_art](imgs/d3_pixel_art.png)
 ## Audios
 
 TBD
