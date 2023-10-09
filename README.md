@@ -39,6 +39,8 @@ We hope you find these prompts useful and have fun!
   - [Pixel Art Images](#pixel-art-images)
   - [Different settings images](#different-settings-images)
   - [机器喵](#机器喵)
+  - [Drink Cat](#drink-cat)
+  - [Wash drawing](#wash-drawing)
   - [带文字的高科技风格](#带文字的高科技风格)
   - [粗线条插画风格](#粗线条插画风格)
   - [可爱的描边插画风格](#可爱的描边插画风格)
@@ -284,6 +286,22 @@ create images of same four  people in four different settings, create all images
 光速で移動するドラえもん
 ```
 ![Alt text](imgs/d3_jiqimao.png)
+
+### Drink Cat
+> from https://twitter.com/calcunacchi/status/1709504381287031275
+```
+日本の居酒屋でお酒を飲む子猫、写実的な感じで
+```
+
+![Alt text](imgs/d3_drink_cat.png)
+
+### Wash drawing
+> from https://twitter.com/coffee2hai/status/1708640187398701411
+
+```
+絵本から飛び出して来た妖精を、パンクの格好をした美少女が釘バットで殴り倒しています。墨で描かれています。
+```
+![Alt text](imgs/d3_wash_drawing.png)
 
 ### 带文字的高科技风格
 > from: https://mp.weixin.qq.com/s/kzUm0fzEf_LOmOhQg3FGCg
