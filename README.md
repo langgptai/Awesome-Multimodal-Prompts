@@ -46,6 +46,7 @@ We hope you find these prompts useful and have fun!
   - [可爱的描边插画风格](#可爱的描边插画风格)
   - [可爱的涂鸦风格](#可爱的涂鸦风格)
   - [Ethereal aerial photograph](#ethereal-aerial-photograph)
+  - [Use Seed to control the style and person](#use-seed-to-control-the-style-and-person)
 - [Audios](#audios)
 - [Star History](#star-history)
 
@@ -360,6 +361,15 @@ Prompts:
 An ethereal aerial photograph of vibrant autumn leaves spiraling in a golden tornado against an endless sky
 ```
 ![Alt text](imgs/d3_aerial_p1.png)
+
+### Use Seed to control the style and person
+
+DALL-E3 generated images has seed. Ask GPT for the image seed and use the seed next time you want to make images in the same style.
+
+Prompts:
+```
+seed: 666.  [Your prompts]
+```
 
 ## Audios
 
