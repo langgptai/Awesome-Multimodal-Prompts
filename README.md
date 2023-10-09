@@ -242,7 +242,7 @@ Predict what will happen next based on the images.
 ## DALLE-3
 
 ### 带文字的高科技风格
-
+> from: https://mp.weixin.qq.com/s/kzUm0fzEf_LOmOhQg3FGCg
 提示词：
 
 Poster that written DALL-E3，Microscopic particles moving at high speed, Footage of glowing blue sequins flying, macro photography, C4d rendering, 3D rendering, black background
@@ -252,6 +252,7 @@ Poster that written DALL-E3，Microscopic particles moving at high speed, Footag
 ![d3_tech_style](imgs/d3_tech_style.png)
 
 ### 粗线条插画风格
+> from: https://mp.weixin.qq.com/s/kzUm0fzEf_LOmOhQg3FGCg
 
 很适合在ppt里面使用，因为它的背景是纯色的很容易跟ppt纯色背景融合。
 
@@ -262,6 +263,7 @@ Poster that written DALL-E3，Microscopic particles moving at high speed, Footag
 ![sharpie_illustration](imgs/d3_sharpie_illustration.png)
 
 ### 可爱的描边插画风格
+> from: https://mp.weixin.qq.com/s/kzUm0fzEf_LOmOhQg3FGCg
 
 这种可爱的描边插画风格也是前几年常见的插画风格。
 
@@ -275,6 +277,8 @@ Poster that written DALL-E3，Microscopic particles moving at high speed, Footag
 ![cartoon_illustration](imgs/d3_cartoon_illustration.png)
 
 ### 可爱的涂鸦风格
+
+> from: https://mp.weixin.qq.com/s/kzUm0fzEf_LOmOhQg3FGCg
 
 提示词：
 ```
