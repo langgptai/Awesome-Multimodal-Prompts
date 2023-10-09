@@ -51,6 +51,7 @@ We hope you find these prompts useful and have fun!
   - [Armament Variation Diagram](#armament-variation-diagram)
   - [sketch](#sketch)
   - [Schematic diagram](#schematic-diagram)
+  - [Evolutionary diagram](#evolutionary-diagram)
   - [Hologram](#hologram)
 - [Audios](#audios)
 - [Star History](#star-history)
@@ -406,6 +407,14 @@ Add 'Schematic diagram' in your prompts to generate images like following:
 > from: https://twitter.com/TechTalkNAVI/status/1711397500857262275
 
 ![Alt text](imgs/d3_schematic_diagram.png)
+
+### Evolutionary diagram
+
+Add 'Evolutionary diagram' in your prompts to generate images like following:
+
+> from: https://twitter.com/TechTalkNAVI/status/1711153541753303337
+
+![Alt text](imgs/d3_evolutionary_diagram.png)
 
 ### Hologram
 
