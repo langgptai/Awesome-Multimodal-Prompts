@@ -267,6 +267,8 @@ a wide aspect extremely detailed image of a scorpion in center shot
 
 ### Pixel Art Images
 
+> from: https://mp.weixin.qq.com/s/qiVYqeyFHR_R_u4l2WjKpQ
+
 Prompts:
 ```
 I want assets for a top-down pixel art rpg game on a white background. Potions and player equipment
