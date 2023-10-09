@@ -34,14 +34,14 @@ We hope you find these prompts useful and have fun!
 - [Videos](#videos)
   - [Video Understanding](#video-understanding)
 - [DALLE-3](#dalle-3)
+  - [1 prompt get all](#1-prompt-get-all)
+  - [Wide and detailed Image](#wide-and-detailed-image)
+  - [Pixel Art Images](#pixel-art-images)
   - [带文字的高科技风格](#带文字的高科技风格)
   - [粗线条插画风格](#粗线条插画风格)
   - [可爱的描边插画风格](#可爱的描边插画风格)
   - [可爱的涂鸦风格](#可爱的涂鸦风格)
-  - [ethereal aerial photograph](#ethereal-aerial-photograph)
-  - [1 prompt get all](#1-prompt-get-all)
-  - [a wide aspect extremely detailed image](#a-wide-aspect-extremely-detailed-image)
-  - [pixel art](#pixel-art)
+  - [Ethereal aerial photograph](#ethereal-aerial-photograph)
 - [Audios](#audios)
 - [Star History](#star-history)
 
@@ -242,6 +242,30 @@ Predict what will happen next based on the images.
 
 ## DALLE-3
 
+### 1 prompt get all
+
+> from: https://twitter.com/itnavi2022/status/1711056366335656178
+
+Prompts: see picture
+
+![Alt text](imgs/d3_1prompt_imges.png)
+
+### Wide and detailed Image
+
+> from: https://twitter.com/OrctonAI/status/1711091040554283121
+```
+a wide aspect extremely detailed image of a scorpion in center shot
+```
+![Alt text](imgs/d3_detail.png)
+
+### Pixel Art Images
+
+Prompts:
+```
+I want assets for a top-down pixel art rpg game on a white background. Potions and player equipment
+```
+![pixel_art](imgs/d3_pixel_art.png)
+
 ### 带文字的高科技风格
 > from: https://mp.weixin.qq.com/s/kzUm0fzEf_LOmOhQg3FGCg
 提示词：
@@ -289,7 +313,7 @@ Poster that written DALL-E3，Microscopic particles moving at high speed, Footag
 
 ![cute_doodle](imgs/d3_cute_doodle.png)
 
-### ethereal aerial photograph
+### Ethereal aerial photograph
 > from: https://twitter.com/HBCoop_/status/1711155080316047667
 
 Prompts:
@@ -298,29 +322,6 @@ An ethereal aerial photograph of vibrant autumn leaves spiraling in a golden tor
 ```
 ![Alt text](imgs/d3_aerial_p1.png)
 
-### 1 prompt get all
-
-> from: https://twitter.com/itnavi2022/status/1711056366335656178
-
-Prompts: see picture
-
-![Alt text](imgs/d3_1prompt_imges.png)
-
-### a wide aspect extremely detailed image
-
-> from: https://twitter.com/OrctonAI/status/1711091040554283121
-```
-a wide aspect extremely detailed image of a scorpion in center shot
-```
-![Alt text](imgs/d3_detail.png)
-
-### pixel art
-
-Prompts:
-```
-I want assets for a top-down pixel art rpg game on a white background. Potions and player equipment
-```
-![pixel_art](imgs/d3_pixel_art.png)
 ## Audios
 
 TBD
