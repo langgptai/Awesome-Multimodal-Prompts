@@ -246,7 +246,10 @@ Predict what will happen next based on the images.
 
 > from: https://twitter.com/itnavi2022/status/1711056366335656178
 
-Prompts: see picture
+Prompts: 
+```
+1，ブリューゲル風のバベルの塔、2，葛飾北斎の神奈川冲浪裹、3，１と２の融合、4，１を２のスタイルで描いてください。
+```
 
 ![Alt text](imgs/d3_1prompt_imges.png)
 
