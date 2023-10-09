@@ -248,7 +248,7 @@ Predict what will happen next based on the images.
 
 Prompts: 
 ```
-1，ブリューゲル風のバベルの塔、2，葛飾北斎の神奈川冲浪裹、3，１と２の融合、4，１を２のスタイルで描いてください。
+1.プリューゲル風のバベルの塔、2。葛飾北斎の神奈川沖浪裏、3.1と2の融合、4.1を2のスタイ ルで描いてくたさい。
 ```
 
 ![Alt text](imgs/d3_1prompt_imges.png)
