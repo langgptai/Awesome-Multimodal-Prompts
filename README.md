@@ -48,6 +48,9 @@ We hope you find these prompts useful and have fun!
   - [Ethereal aerial photograph](#ethereal-aerial-photograph)
   - [Use Seed to control the style and person](#use-seed-to-control-the-style-and-person)
   - [Assembly Diagram](#assembly-diagram)
+  - [Armament Variation Diagram](#armament-variation-diagram)
+  - [sketch](#sketch)
+  - [Schematic diagram](#schematic-diagram)
   - [Hologram](#hologram)
 - [Audios](#audios)
 - [Star History](#star-history)
@@ -381,6 +384,29 @@ Add 'Assembly Diagram' in your prompts to generate images like following:
 
 ![Alt text](imgs/d3_assembly_diagram.png)
 
+### Armament Variation Diagram
+
+Add 'Armament Variation Diagram' in your prompts to generate images like following:
+
+> from: https://twitter.com/TechTalkNAVI/status/1711406774715379814
+
+![Alt text](imgs/d3_ArmamentVariationDiagram.png)
+
+### sketch
+Add 'sketch' in your prompts to generate images like following:
+
+> from: https://twitter.com/TechTalkNAVI/status/1711136935299919935
+> 
+![Alt text](imgs/d3_sketch.png)
+
+### Schematic diagram
+
+Add 'Schematic diagram' in your prompts to generate images like following:
+
+> from: https://twitter.com/TechTalkNAVI/status/1711397500857262275
+
+![Alt text](imgs/d3_schematic_diagram.png)
+
 ### Hologram
 
 Add 'hologram' in your prompts to generate images like following:
@@ -388,7 +414,6 @@ Add 'hologram' in your prompts to generate images like following:
 > from: https://twitter.com/TechTalkNAVI/status/1711400987699896537
 
 ![Alt text](imgs/d3_hologram.png)
-
 ## Audios
 
 TBD
