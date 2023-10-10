@@ -12,6 +12,7 @@ We hope you find these prompts useful and have fun!
 ## Contents
 - [Contents](#contents)
 - [Articles and Resources](#articles-and-resources)
+  - [DALL·E 3](#dalle-3)
 - [Methods](#methods)
   - [Multimodal CoT Prompting](#multimodal-cot-prompting)
   - [Visual Referring Prompting](#visual-referring-prompting)
@@ -33,7 +34,13 @@ We hope you find these prompts useful and have fun!
   - [Science and Knowledge](#science-and-knowledge)
 - [Videos](#videos)
   - [Video Understanding](#video-understanding)
-- [DALLE-3](#dalle-3)
+- [DALLE-3](#dalle-3-1)
+  - [Assembly Diagram](#assembly-diagram)
+  - [Armament Variation Diagram](#armament-variation-diagram)
+  - [sketch](#sketch)
+  - [Schematic diagram](#schematic-diagram)
+  - [Evolutionary diagram](#evolutionary-diagram)
+  - [Hologram](#hologram)
   - [1 prompt get all](#1-prompt-get-all)
   - [Wide and detailed Image](#wide-and-detailed-image)
   - [Pixel Art Images](#pixel-art-images)
@@ -47,12 +54,7 @@ We hope you find these prompts useful and have fun!
   - [可爱的涂鸦风格](#可爱的涂鸦风格)
   - [Ethereal aerial photograph](#ethereal-aerial-photograph)
   - [Use Seed to control the style and person](#use-seed-to-control-the-style-and-person)
-  - [Assembly Diagram](#assembly-diagram)
-  - [Armament Variation Diagram](#armament-variation-diagram)
-  - [sketch](#sketch)
-  - [Schematic diagram](#schematic-diagram)
-  - [Evolutionary diagram](#evolutionary-diagram)
-  - [Hologram](#hologram)
+  - [Grid image](#grid-image)
 - [Audios](#audios)
 - [Star History](#star-history)
 
@@ -64,7 +66,13 @@ We hope you find these prompts useful and have fun!
 * [试过GPT-4V后，微软写了个166页的测评报告，业内人士：高级用户必读](https://mp.weixin.qq.com/s/8FtR6JcEFVcRLWCaANXQ6g) 论文中文版 [PDF](papers/GPT-4V-zh.pdf)
 * [ChatGPT多模态解禁，网友玩疯！拍图即生代码，古卷手稿一眼识别，图表总结超6](https://mp.weixin.qq.com/s/FfiPJpxNrQpHxmOxBpDyHg)
 * [AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model](https://huggingface.co/papers/2309.16058) We present Any-Modality Augmented Language Model (AnyMAL), a unified model that reasons over diverse input modality signals (i.e. text, image, video, audio, IMU motion sensor), and generates textual responses.
+  
+### DALL·E 3
 * [DALL·E 3](https://openai.com/dall-e-3) DALL·E 3 understands significantly more nuance and detail than our previous systems, allowing you to easily translate your ideas into exceptionally accurate images.
+* [DALL_E_3_System_Card](https://cdn.openai.com/papers/DALL_E_3_System_Card.pdf)
+* [Prompt transformation makes ChatGPT OpenAI's covert moderator for DALL-E 3](https://the-decoder.com/prompt-transformation-makes-chatgpt-openais-covert-moderator-for-dall-e-3/)
+* [百万网友围观DALL-E 3新玩法！钢铁侠特斯拉皆“中招”，强迫症友好，博主分享提示词](https://mp.weixin.qq.com/s/bziTzwaZwFBcz8ghqNNZhA)
+* [DALL·E 3辣眼图流出！OpenAI 22页报告揭秘：ChatGPT自动改写Prompt](https://mp.weixin.qq.com/s/_Iri2cdT0ZF5fufo2_HbeQ)
 
 ## Methods
 
@@ -253,6 +261,53 @@ Predict what will happen next based on the images.
 
 ## DALLE-3
 
+### Assembly Diagram
+
+> from: https://twitter.com/TechTalkNAVI/status/1711404574710583583
+
+Add 'Assembly Diagram' in your prompts to generate images like following:
+
+![Alt text](imgs/d3_assembly_diagram.png)
+
+### Armament Variation Diagram
+
+Add 'Armament Variation Diagram' in your prompts to generate images like following:
+
+> from: https://twitter.com/TechTalkNAVI/status/1711406774715379814
+
+![Alt text](imgs/d3_ArmamentVariationDiagram.png)
+
+### sketch
+Add 'sketch' in your prompts to generate images like following:
+
+> from: https://twitter.com/TechTalkNAVI/status/1711136935299919935
+> 
+![Alt text](imgs/d3_sketch.png)
+
+### Schematic diagram
+
+Add 'Schematic diagram' in your prompts to generate images like following:
+
+> from: https://twitter.com/TechTalkNAVI/status/1711397500857262275
+
+![Alt text](imgs/d3_schematic_diagram.png)
+
+### Evolutionary diagram
+
+Add 'Evolutionary diagram' in your prompts to generate images like following:
+
+> from: https://twitter.com/TechTalkNAVI/status/1711153541753303337
+
+![Alt text](imgs/d3_evolutionary_diagram.png)
+
+### Hologram
+
+Add 'hologram' in your prompts to generate images like following:
+
+> from: https://twitter.com/TechTalkNAVI/status/1711400987699896537
+
+![Alt text](imgs/d3_hologram.png)
+
 ### 1 prompt get all
 
 > from: https://twitter.com/itnavi2022/status/1711056366335656178
@@ -376,53 +431,14 @@ Prompts:
 ```
 seed: 666.  [Your prompts]
 ```
+### Grid image
 
-### Assembly Diagram
+Prompts:
+```
+2x2 grid images. [Your prompts]
+```
+![Alt text](imgs/d3_grid_img.png)
 
-> from: https://twitter.com/TechTalkNAVI/status/1711404574710583583
-
-Add 'Assembly Diagram' in your prompts to generate images like following:
-
-![Alt text](imgs/d3_assembly_diagram.png)
-
-### Armament Variation Diagram
-
-Add 'Armament Variation Diagram' in your prompts to generate images like following:
-
-> from: https://twitter.com/TechTalkNAVI/status/1711406774715379814
-
-![Alt text](imgs/d3_ArmamentVariationDiagram.png)
-
-### sketch
-Add 'sketch' in your prompts to generate images like following:
-
-> from: https://twitter.com/TechTalkNAVI/status/1711136935299919935
-> 
-![Alt text](imgs/d3_sketch.png)
-
-### Schematic diagram
-
-Add 'Schematic diagram' in your prompts to generate images like following:
-
-> from: https://twitter.com/TechTalkNAVI/status/1711397500857262275
-
-![Alt text](imgs/d3_schematic_diagram.png)
-
-### Evolutionary diagram
-
-Add 'Evolutionary diagram' in your prompts to generate images like following:
-
-> from: https://twitter.com/TechTalkNAVI/status/1711153541753303337
-
-![Alt text](imgs/d3_evolutionary_diagram.png)
-
-### Hologram
-
-Add 'hologram' in your prompts to generate images like following:
-
-> from: https://twitter.com/TechTalkNAVI/status/1711400987699896537
-
-![Alt text](imgs/d3_hologram.png)
 ## Audios
 
 TBD
