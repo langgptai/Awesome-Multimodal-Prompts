@@ -55,6 +55,7 @@ We hope you find these prompts useful and have fun!
   - [Ethereal aerial photograph](#ethereal-aerial-photograph)
   - [Use Seed to control the style and person](#use-seed-to-control-the-style-and-person)
   - [Grid image](#grid-image)
+  - [ASCII image](#ascii-image)
 - [Audios](#audios)
 - [Star History](#star-history)
 
@@ -72,6 +73,7 @@ We hope you find these prompts useful and have fun!
 * [DALL_E_3_System_Card](https://cdn.openai.com/papers/DALL_E_3_System_Card.pdf)
 * [Prompt transformation makes ChatGPT OpenAI's covert moderator for DALL-E 3](https://the-decoder.com/prompt-transformation-makes-chatgpt-openais-covert-moderator-for-dall-e-3/)
 * [百万网友围观DALL-E 3新玩法！钢铁侠特斯拉皆“中招”，强迫症友好，博主分享提示词](https://mp.weixin.qq.com/s/bziTzwaZwFBcz8ghqNNZhA)
+* [用 DALLE3 画12页绘本制作全流程](https://mp.weixin.qq.com/s/R_oAccDCrJkcusYXELcx8A)
 * [DALL·E 3辣眼图流出！OpenAI 22页报告揭秘：ChatGPT自动改写Prompt](https://mp.weixin.qq.com/s/_Iri2cdT0ZF5fufo2_HbeQ)
 
 ## Methods
@@ -438,6 +440,16 @@ Prompts:
 2x2 grid images. [Your prompts]
 ```
 ![Alt text](imgs/d3_grid_img.png)
+
+###  ASCII image
+
+> from: https://twitter.com/EmbraceAGI/status/1711759352367890831
+
+Prompts:
+```
+ASCII style. [Your prompts]
+```
+![Alt text](imgs/d3_ASCII_cat.png)
 
 ## Audios
 
