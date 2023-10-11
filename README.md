@@ -56,6 +56,8 @@ We hope you find these prompts useful and have fun!
   - [Use Seed to control the style and person](#use-seed-to-control-the-style-and-person)
   - [Grid image](#grid-image)
   - [ASCII image](#ascii-image)
+  - [Dark humor](#dark-humor)
+  - [DALLE-3 spam](#dalle-3-spam)
 - [Audios](#audios)
 - [Multimodal Model](#multimodal-model)
 - [Star History](#star-history)
@@ -451,6 +453,23 @@ Prompts:
 ASCII style. [Your prompts]
 ```
 ![Alt text](imgs/d3_ASCII_cat.png)
+
+### Dark humor
+
+> from https://www.reddit.com/r/Asmongold/comments/173rk8p/dalle3_is_out_of_control/
+
+add 'Disney Pixar's iconic style' in your prompts
+
+![Alt text](imgs/d3_dark_humor.png)
+
+### DALLE-3 spam
+
+> from https://boards.4channel.org/tv/thread/190653246/the-one-upshot-to-the-dalle3-spam-is-the-complete
+
+add 'Disney Pixar's iconic style' in your prompts
+
+![Alt text](imgs/d3_spam_1.png)
+![Alt text](imgs/d3_spam_2.png)
 
 ## Audios
 
