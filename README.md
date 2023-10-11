@@ -57,6 +57,7 @@ We hope you find these prompts useful and have fun!
   - [Grid image](#grid-image)
   - [ASCII image](#ascii-image)
 - [Audios](#audios)
+- [Multimodal Model](#multimodal-model)
 - [Star History](#star-history)
 
 ## Articles and Resources
@@ -455,6 +456,11 @@ ASCII style. [Your prompts]
 
 TBD
 
+## Multimodal Model
+|Name |Stars| About | Notes |
+-|-|-|-
+|[🌋 LLaVA: Large Language and Vision Assistant](https://github.com/haotian-liu/LLaVA) |![GitHub Repo stars](https://badgen.net/github/stars/haotian-liu/LLaVA)|[NeurIPS 2023 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards multimodal GPT-4 level capabilities.|-|
+|[CogVLM](https://github.com/THUDM/CogVLM) |![GitHub Repo stars](https://badgen.net/github/stars/THUDM/CogVLM)|A state-of-the-art-level open visual language model.|CogVLM 是一个强大的开源视觉语言模型，利用视觉专家模块深度整合语言编码和视觉编码，在 14 项权威跨模态基准上取得了 SOTA 性能。目前仅支持英文，后续会提供中英双语版本支持，欢迎持续关注！|
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yzfly/Awesome-Multimodal-Prompts&type=Date)](https://star-history.com/#yzfly/Awesome-Multimodal-Prompts&Date)
