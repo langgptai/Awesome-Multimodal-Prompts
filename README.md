@@ -56,6 +56,7 @@ We hope you find these prompts useful and have fun!
   - [Use Seed to control the style and person](#use-seed-to-control-the-style-and-person)
   - [Grid image](#grid-image)
   - [ASCII image](#ascii-image)
+  - [Generate specified text](#generate-specified-text)
   - [Dark humor](#dark-humor)
   - [DALLE-3 spam](#dalle-3-spam)
 - [Audios](#audios)
@@ -454,6 +455,15 @@ ASCII style. [Your prompts]
 ```
 ![Alt text](imgs/d3_ASCII_cat.png)
 
+### Generate specified text
+
+Prompts:
+```
+Two people holding signs saying “we the people” who work at The Bank of the People
+```
+
+![Alt text](imgs/d3_add_text.png)
+
 ### Dark humor
 
 > from https://www.reddit.com/r/Asmongold/comments/173rk8p/dalle3_is_out_of_control/
@@ -480,6 +490,7 @@ TBD
 -|-|-|-
 |[🌋 LLaVA: Large Language and Vision Assistant](https://github.com/haotian-liu/LLaVA) |![GitHub Repo stars](https://badgen.net/github/stars/haotian-liu/LLaVA)|[NeurIPS 2023 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards multimodal GPT-4 level capabilities.|-|
 |[CogVLM](https://github.com/THUDM/CogVLM) |![GitHub Repo stars](https://badgen.net/github/stars/THUDM/CogVLM)|A state-of-the-art-level open visual language model.|CogVLM 是一个强大的开源视觉语言模型，利用视觉专家模块深度整合语言编码和视觉编码，在 14 项权威跨模态基准上取得了 SOTA 性能。目前仅支持英文，后续会提供中英双语版本支持，欢迎持续关注！|
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yzfly/Awesome-Multimodal-Prompts&type=Date)](https://star-history.com/#yzfly/Awesome-Multimodal-Prompts&Date)
