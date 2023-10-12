@@ -80,6 +80,7 @@ We hope you find these prompts useful and have fun!
 * [用 DALLE3 画12页绘本制作全流程](https://mp.weixin.qq.com/s/R_oAccDCrJkcusYXELcx8A)
 * [DALL·E 3辣眼图流出！OpenAI 22页报告揭秘：ChatGPT自动改写Prompt](https://mp.weixin.qq.com/s/_Iri2cdT0ZF5fufo2_HbeQ)
 * [45个 DALL-E 3 使用案例 (附提示词)](https://juejin.cn/post/7288561954484994087)
+* [DALLE-3 的紧箍咒](https://mp.weixin.qq.com/s/WYv0aq6a4W1tdNQKCR9oiw)
 
 ## Methods
 
