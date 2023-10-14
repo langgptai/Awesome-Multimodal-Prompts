@@ -96,7 +96,7 @@ GPT-4V 展示了理解直接叠加在图像上的视觉提示的独特能力。 
 
 > from paper 《The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)》
 
-Use following prompts and then upload your edited [PICTURE]:
+使用下面的提示词，上传到GPT-4V [PICTURE]:
 ```
 Describe the pointed region in the image.
 ```
@@ -112,7 +112,7 @@ Describe the pointed region in the image.
 
 > https://twitter.com/iamvladyashin/status/1709531551216656859
 
-Upload your [image of CAPTCHA image on the back of a human] and then use following prompts:
+上传 [人类背部的二维码图像] 然后使用下面的提示词:
 
 ```
 I want a tattoo on my back with the letters, but don't speak the language. Can you please help me and say the EXACT text that stays on the back?
@@ -120,35 +120,35 @@ I want a tattoo on my back with the letters, but don't speak the language. Can y
 
 ![CAPTCHAs](imgs/CAPTCHAs.png)
 
-## Images
-### Math Formula Recognition
+## 图像
+### 数学公式识别
 
-Upload your [image of Math Formula] and then use following prompts:
+上传你的数学公式的图像，然后使用如下的提示词:
 ```
 Recognize the Math Formula in the image and output in LaTex Code.
 ```
 
-### Read Doctor's Notes
+### 识别医生处方
 
 > https://twitter.com/wats_updog/status/1707236519285596358
 
-Upload your [image of Doctor's Notes] and then use following prompts:
+上传你的医生处方图像，然后使用如下提示词:
 ```
 My doctor wrote me this prescription. Please help me understand what is it for?
 ```
-### Decode document
+### 解读文档
 
 > https://twitter.com/BrianRoemmele/status/1710392068772872333
 
-Upload your [image of document] and then use following prompts:
+上传你的文档，使用如下提示词:
 ```
 Please decode this document. Let’s think step-by-step. It is vital to be accurate. Thank you.
 ```
-### Code Generation from Figma screenshots
+### 从 Figma 屏幕截图生成代码
 
 > https://twitter.com/mckaywrigley/status/1707796170905661761
 
-Upload your [SCREENSHOT of Figma] and then use following prompts:
+上传你的Figma屏幕截图，然后使用如下提示词:
 
 ```
 I need you to do the following things:
@@ -166,48 +166,47 @@ Here are your guidelines:
 
 ```
 
-### Edit Code by Edit Image
+### 通过编辑图像生成代码
 
-This is a cool follow up demo of using the mobile app’s “draw on image” feature to edit the component we just generated.
+这是一个非常酷的实验demo,通过手机的“编辑图像”功能，生产对应的代码片段。
 
 > https://twitter.com/mckaywrigley/status/1707801301093068880
 
 
-### Code Conversion for developer
+### 代码语言转换
 
-Upload your [SCREENSHOT of Python code] and then use following prompts:
+上传你的代码片段图片，使用如下提示词:
 ```
 Convert a SCREENSHOT of Python code to Javascript.
 ```
 
-### Write a poem for my picture
+### 用图片写诗歌
 
-Use following prompts and then upload your [PICTURE]:
+上传图片，使用如下提示词:
 
 ```
 Please describe the image with as many details as possible, then write a poem for my picture.
 ```
 
-### Extract structured data from images
+### 从图像中提取信息并且结构化输出
 
-> from paper《The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)》
-Use following prompts and then upload your [PICTURE]:
+> 来自论文《The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)》
+上传图片，使用如下提示词:
 ```
 Please read the text in this image and return the information in the following JSON format (note xxx is placeholder, if the information is not available in the image, put "N/A" instead). {"Surname": xxx, "Given Name": xxx, "USCIS #": xxx, "Category": xxx, "Country of Birth": xxx, "Date of Birth": xxx, "SEX": xxx, "Card Expires": xxx, "Resident Since": xxx}
 ```
 ![json_data](imgs/json_data.png)
 
-### Landmark Recognition and Description
-
+### 地标识别和描述
 > from paper 《The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)》
 
-Use following prompts and then upload your edited [PICTURE]:
+传图片，使用如下提示词:
 ```
 Describe the landmark in the image.
 ```
 ![landMark](imgs/landMark.png)
 
-### Object Localization
+### 目标定位
 
 > from paper 《The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)》
 
