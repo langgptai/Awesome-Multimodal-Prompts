@@ -11,14 +11,14 @@
 希望这些prompts能够帮助到各位。
 
 ## Contents
-- [Contents](#contents)
-- [Articles and Resources](#articles-and-resources)
+- [内容](#contents)
+- [文章和资源](#articles-and-resources)
   - [DALL·E 3](#dalle-3)
-- [Methods](#methods)
+- [方法](#methods)
   - [Multimodal CoT Prompting](#multimodal-cot-prompting)
   - [Visual Referring Prompting](#visual-referring-prompting)
   - [Multimodal Prompt Injection —— Make GPT-4V solve CAPTCHAs](#multimodal-prompt-injection--make-gpt-4v-solve-captchas)
-- [Images](#images)
+- [图像](#images)
   - [Math Formula Recognition](#math-formula-recognition)
   - [Read Doctor's Notes](#read-doctors-notes)
   - [Decode document](#decode-document)
@@ -33,7 +33,7 @@
   - [Flow Chart Understanding and Coding](#flow-chart-understanding-and-coding)
   - [Safety Inspection for Industry](#safety-inspection-for-industry)
   - [Science and Knowledge](#science-and-knowledge)
-- [Videos](#videos)
+- [视频](#videos)
   - [Video Understanding](#video-understanding)
 - [DALLE-3](#dalle-3-1)
   - [Assembly Diagram](#assembly-diagram)
@@ -57,7 +57,7 @@
   - [Use Seed to control the style and person](#use-seed-to-control-the-style-and-person)
   - [Grid image](#grid-image)
   - [ASCII image](#ascii-image)
-- [Audios](#audios)
+- [音频](#audios)
 - [Star History](#star-history)
 
 ## Articles and Resources
