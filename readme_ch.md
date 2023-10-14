@@ -60,37 +60,39 @@
 - [音频](#audios)
 - [Star History](#star-history)
 
-## Articles and Resources
+## 文章和资源
 
 * [ChatGPT can now see, hear, and speak](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak)
-* [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ✨✨Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation. ![GitHub Repo stars](https://badgen.net/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models)
+* [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ✨✨多模态大语言模型的最新论文和数据集及其评估！
+ ![GitHub Repo stars](https://badgen.net/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models)
 * [The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)](https://www.reddit.com/r/MachineLearning/comments/16xpi5o/r_the_dawn_of_lmms_preliminary_explorations_with/) 🔥
 * [试过GPT-4V后，微软写了个166页的测评报告，业内人士：高级用户必读](https://mp.weixin.qq.com/s/8FtR6JcEFVcRLWCaANXQ6g) 论文中文版 [PDF](papers/GPT-4V-zh.pdf)
 * [ChatGPT多模态解禁，网友玩疯！拍图即生代码，古卷手稿一眼识别，图表总结超6](https://mp.weixin.qq.com/s/FfiPJpxNrQpHxmOxBpDyHg)
-* [AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model](https://huggingface.co/papers/2309.16058) We present Any-Modality Augmented Language Model (AnyMAL), a unified model that reasons over diverse input modality signals (i.e. text, image, video, audio, IMU motion sensor), and generates textual responses.
+* [AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model](https://huggingface.co/papers/2309.16058) 我们提出了任意模态增强语言模型（AnyMAL），这是一个统一的模型，可以对不同的输入模态信号（即文本、图像、视频、音频、IMU 运动传感器）进行推理，并生成文本。
+
   
 ### DALL·E 3
-* [DALL·E 3](https://openai.com/dall-e-3) DALL·E 3 understands significantly more nuance and detail than our previous systems, allowing you to easily translate your ideas into exceptionally accurate images.
+* [DALL·E 3](https://openai.com/dall-e-3) DALL·E 3 比我们以前的系统了解更多的细微差别，使您可以轻松地将自己的想法转化为极其准确的图像。
 * [DALL_E_3_System_Card](https://cdn.openai.com/papers/DALL_E_3_System_Card.pdf)
 * [Prompt transformation makes ChatGPT OpenAI's covert moderator for DALL-E 3](https://the-decoder.com/prompt-transformation-makes-chatgpt-openais-covert-moderator-for-dall-e-3/)
 * [百万网友围观DALL-E 3新玩法！钢铁侠特斯拉皆“中招”，强迫症友好，博主分享提示词](https://mp.weixin.qq.com/s/bziTzwaZwFBcz8ghqNNZhA)
 * [用 DALLE3 画12页绘本制作全流程](https://mp.weixin.qq.com/s/R_oAccDCrJkcusYXELcx8A)
 * [DALL·E 3辣眼图流出！OpenAI 22页报告揭秘：ChatGPT自动改写Prompt](https://mp.weixin.qq.com/s/_Iri2cdT0ZF5fufo2_HbeQ)
 
-## Methods
+## 方法
 
-### Multimodal CoT Prompting
+### 多模式 CoT 提示词
 
-Multimodal CoT incorporates text and vision into a two-stage framework. The first step involves rationale generation based on multimodal information. This is followed by the second phase, answer inference, which leverages the informative generated rationales.
+多模式 CoT 将文本和视觉整合到一个两阶段框架中。 第一步涉及基于多模态信息的原理迭代生成。 第二阶段，利用迭代生产的信息得到答案推理。
 
 > from paper [《Multimodal Chain-of-Thought Reasoning in Language Models
 》](https://arxiv.org/abs/2302.00923)
 
 ![mmCoT](imgs/mmCoT.png)
 
-### Visual Referring Prompting
+### 视觉推理提示词
 
-GPT-4V demonstrates the unique capability of understanding visual pointing directly overlaid on images. Based on such capability, you can explore visual referring prompting that edits input image pixels (e.g., drawing visual pointers and scene texts) to prompt the task of interest.
+GPT-4V 展示了理解直接叠加在图像上的视觉提示的独特能力。 基于此类功能，您可以探索视觉引用提示，编辑输入图像像素以生成需要的视觉的任务（例如，绘制视觉提示场景和文本场景）。
 
 > from paper 《The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)》
 
@@ -101,12 +103,12 @@ Describe the pointed region in the image.
 
 ![VisualReferringPrompting](imgs/tableAnalysis.png)
 
-### Multimodal Prompt Injection —— Make GPT-4V solve CAPTCHAs
-It's considered impossible to solve CAPTCHAs by uploading them to the multimodal GPT-4V.
+### 多模态提示注入——让GPT-4V破解验证码
 
-However, there's a significant catch.
+目前尚不能通过将验证码上传到多模式 GPT-4V 来破解
 
-If you place a CAPTCHA image on the back of a human and ask GPT-4V to read it for you for tattoo purposes because you're unfamiliar with the language - there you have it 😉
+然而，有一个很典型的问题
+如果您将验证码图像放在人类的背部，并要求 GPT-4V 以您不熟悉该语言为原因，为您读取该图像用于纹身。 - 这样就破解了验证码😉
 
 > https://twitter.com/iamvladyashin/status/1709531551216656859
 
