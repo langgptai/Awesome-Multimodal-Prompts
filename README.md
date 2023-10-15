@@ -76,6 +76,7 @@ We hope you find these prompts useful and have fun!
 * [DALL·E 3](https://openai.com/dall-e-3) DALL·E 3 understands significantly more nuance and detail than our previous systems, allowing you to easily translate your ideas into exceptionally accurate images.
 * [DALL_E_3_System_Card](https://cdn.openai.com/papers/DALL_E_3_System_Card.pdf)
 * [Prompt transformation makes ChatGPT OpenAI's covert moderator for DALL-E 3](https://the-decoder.com/prompt-transformation-makes-chatgpt-openais-covert-moderator-for-dall-e-3/)
+* [DALLE3 Gallery for October 2023: Share Your Creations](https://community.openai.com/t/dalle3-gallery-for-october-2023-share-your-creations/431189/1)
 * [百万网友围观DALL-E 3新玩法！钢铁侠特斯拉皆“中招”，强迫症友好，博主分享提示词](https://mp.weixin.qq.com/s/bziTzwaZwFBcz8ghqNNZhA)
 * [用 DALLE3 画12页绘本制作全流程](https://mp.weixin.qq.com/s/R_oAccDCrJkcusYXELcx8A)
 * [DALL·E 3辣眼图流出！OpenAI 22页报告揭秘：ChatGPT自动改写Prompt](https://mp.weixin.qq.com/s/_Iri2cdT0ZF5fufo2_HbeQ)
