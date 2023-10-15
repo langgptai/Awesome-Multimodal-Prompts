@@ -210,54 +210,51 @@ Describe the landmark in the image.
 
 > from paper 《The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)》
 
-Use following prompts and then upload your [PICTURE]:
+传图片，使用如下提示词:
 ```
 Localize each person in the image using bounding box. What is the image size of the input image?
 ```
 
 ![ObjectLocalization](imgs/localize_persons.png)
 
-### Scene Text Recognition
+### 图像文字识别
 > from paper 《The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)》
 
-Use following prompts and then upload your [PICTURE]:
+传图片，使用如下提示词:
 ```
 What are all the scene text in the image?
 ```
 ![char_recognition](imgs/char_recognition.png)
 
-### Flow Chart Understanding and Coding
+### 流程图理解和代码生成
 
 > from paper 《The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)》
 
-Use following prompts and then upload your Flow Chart [PICTURE]:
-```
+上传图片，使用如下提示词:```
 Can you translate the flowchart to a python code?
 ```
 ![char_recognition](imgs/flowchart_coding.png)
 
-### Safety Inspection for Industry
-Use following prompts and then upload your [PICTURES]:
-```
+### 工业安全检测
+上传图片，使用如下提示词:```
 Please determine whether the person in the image wears a helmet or not. And summarize how many people are wearing helmets.
 ```
 ![Safety Inspection for Industry](imgs/safety.png)
 
-### Science and Knowledge
+### 科学知识
 > from paper 《The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)》
 
 ![knowledge](imgs/knowledge.png)
 
-## Videos
+## 视频
 
-GPT-4V can accurately comprehend and analyze sequences
-of video frames. Within this frame-by-frame analysis, GPT-4V recognizes the scene in which the activity is taking place, delivering a deeper contextual understanding.
+GPT-4V 可以准确理解和分析视频序列。在这种逐帧分析中，GPT-4V 识别活动发生的场景，从而提供更深入的上下文理解。
 
-### Video Understanding
+### 视频理解
 
 > from paper 《The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)》
 
-Use following prompts and then upload your [VIDEO FRAMES]:
+上传图片，使用如下提示词:
 ```
 Predict what will happen next based on the images.
 ```
@@ -265,55 +262,54 @@ Predict what will happen next based on the images.
 
 ## DALLE-3
 
-### Assembly Diagram
+### 装备分析草图
 
 > from: https://twitter.com/TechTalkNAVI/status/1711404574710583583
 
-Add 'Assembly Diagram' in your prompts to generate images like following:
+在你的提示词中增加“Assembly Diagram”，就能得到如下图:
 
 ![Alt text](imgs/d3_assembly_diagram.png)
 
-### Armament Variation Diagram
+### 武器变形草图
 
-Add 'Armament Variation Diagram' in your prompts to generate images like following:
+在你的prompt中增加 'Armament Variation Diagram'，就能迭代得到如下图:
 
 > from: https://twitter.com/TechTalkNAVI/status/1711406774715379814
 
 ![Alt text](imgs/d3_ArmamentVariationDiagram.png)
 
-### sketch
-Add 'sketch' in your prompts to generate images like following:
+### 素描
+
+在你的prompt中增加 “sketch”，就能迭代得到如下图：
 
 > from: https://twitter.com/TechTalkNAVI/status/1711136935299919935
 > 
 ![Alt text](imgs/d3_sketch.png)
 
-### Schematic diagram
-
-Add 'Schematic diagram' in your prompts to generate images like following:
+### 示意草图
+在你的prompt中增加 “Schematic diagram”，就能迭代得到如下图：
 
 > from: https://twitter.com/TechTalkNAVI/status/1711397500857262275
 
 ![Alt text](imgs/d3_schematic_diagram.png)
 
-### Evolutionary diagram
+### 进化草图
 
-Add 'Evolutionary diagram' in your prompts to generate images like following:
+在你的prompt中增加 “Evolutionary diagram”，就能迭代得到如下图：
 
 > from: https://twitter.com/TechTalkNAVI/status/1711153541753303337
 
 ![Alt text](imgs/d3_evolutionary_diagram.png)
 
-### Hologram
+### 全息图
 
-Add 'hologram' in your prompts to generate images like following:
+在你的prompt中增加 “hologram”，就能迭代得到如下图：
 
 > from: https://twitter.com/TechTalkNAVI/status/1711400987699896537
 
 ![Alt text](imgs/d3_hologram.png)
 
-### 1 prompt get all
-
+### 一个prompt得到多个组合概念图
 > from: https://twitter.com/itnavi2022/status/1711056366335656178
 
 Prompts: 
@@ -323,7 +319,7 @@ Prompts:
 
 ![Alt text](imgs/d3_1prompt_imges.png)
 
-### Wide and detailed Image
+### 宽而详细的图
 
 > from: https://twitter.com/OrctonAI/status/1711091040554283121
 ```
@@ -331,7 +327,7 @@ a wide aspect extremely detailed image of a scorpion in center shot
 ```
 ![Alt text](imgs/d3_detail.png)
 
-### Pixel Art Images
+### 像素艺术图
 
 > from: https://mp.weixin.qq.com/s/qiVYqeyFHR_R_u4l2WjKpQ
 
@@ -341,7 +337,7 @@ I want assets for a top-down pixel art rpg game on a white background. Potions a
 ```
 ![pixel_art](imgs/d3_pixel_art.png)
 
-### Different settings images
+### 不同设定的图
 > from https://twitter.com/francolli/status/1710869631076798568
 ```
 create images of same four  people in four different settings, create all images in same realistic photography style: a dad, mum and their two little boys, in park, in the car, in the beach, in the garden
@@ -355,7 +351,7 @@ create images of same four  people in four different settings, create all images
 ```
 ![Alt text](imgs/d3_jiqimao.png)
 
-### Drink Cat
+### 喝酒喵
 > from https://twitter.com/calcunacchi/status/1709504381287031275
 ```
 日本の居酒屋でお酒を飲む子猫、写実的な感じで
@@ -363,7 +359,7 @@ create images of same four  people in four different settings, create all images
 
 ![Alt text](imgs/d3_drink_cat.png)
 
-### Wash drawing
+### 水墨画
 > from https://twitter.com/coffee2hai/status/1708640187398701411
 
 ```
@@ -418,7 +414,7 @@ Poster that written DALL-E3，Microscopic particles moving at high speed, Footag
 
 ![cute_doodle](imgs/d3_cute_doodle.png)
 
-### Ethereal aerial photograph
+### 空灵的航空照片
 > from: https://twitter.com/HBCoop_/status/1711155080316047667
 
 Prompts:
@@ -427,15 +423,15 @@ An ethereal aerial photograph of vibrant autumn leaves spiraling in a golden tor
 ```
 ![Alt text](imgs/d3_aerial_p1.png)
 
-### Use Seed to control the style and person
+### 使用“种子”来控制风格和人物
 
-DALL-E3 generated images has seed. Ask GPT for the image seed and use the seed next time you want to make images in the same style.
+DALL-E3 生成的图像有种子。 向 GPT 索要图像种子，并在下次要制作相同风格的图像时使用该种子。
 
 Prompts:
 ```
 seed: 666.  [Your prompts]
 ```
-### Grid image
+### 网格图像
 
 Prompts:
 ```
@@ -443,7 +439,7 @@ Prompts:
 ```
 ![Alt text](imgs/d3_grid_img.png)
 
-###  ASCII image
+###  ASCII 图像
 
 > from: https://twitter.com/EmbraceAGI/status/1711759352367890831
 
@@ -453,7 +449,7 @@ ASCII style. [Your prompts]
 ```
 ![Alt text](imgs/d3_ASCII_cat.png)
 
-## Audios
+## 音频
 
 TBD
 
