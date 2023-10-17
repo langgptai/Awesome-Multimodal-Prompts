@@ -41,6 +41,7 @@ We hope you find these prompts useful and have fun!
   - [Schematic diagram](#schematic-diagram)
   - [Evolutionary diagram](#evolutionary-diagram)
   - [Hologram](#hologram)
+  - [Dragon in an alternate universe.](#dragon-in-an-alternate-universe)
   - [1 prompt get all](#1-prompt-get-all)
   - [Wide and detailed Image](#wide-and-detailed-image)
   - [Pixel Art Images](#pixel-art-images)
@@ -317,6 +318,21 @@ Add 'hologram' in your prompts to generate images like following:
 
 ![Alt text](imgs/d3_hologram.png)
 
+### Dragon in an alternate universe.
+> from https://twitter.com/chaseleantj/status/1713540148783378656
+
+Prompts
+```
+Can you generate me a technical engineer's drawing of a dragon, with labels of its various parts? Use a wide aspect ratio.
+```
+```
+create a technical drawing of the dragon head, using a tall aspect ratio.
+```
+```
+create some habitats, using the same technical drawing style and a wide aspect ratio.
+```
+
+![Alt text](imgs/d3_dragon.png)
 ### 1 prompt get all
 
 > from: https://twitter.com/itnavi2022/status/1711056366335656178
