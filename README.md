@@ -75,7 +75,8 @@ We hope you find these prompts useful and have fun!
 * [试过GPT-4V后，微软写了个166页的测评报告，业内人士：高级用户必读](https://mp.weixin.qq.com/s/8FtR6JcEFVcRLWCaANXQ6g) 论文中文版 [PDF](papers/GPT-4V-zh.pdf)
 * [ChatGPT多模态解禁，网友玩疯！拍图即生代码，古卷手稿一眼识别，图表总结超6](https://mp.weixin.qq.com/s/FfiPJpxNrQpHxmOxBpDyHg)
 * [AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model](https://huggingface.co/papers/2309.16058) We present Any-Modality Augmented Language Model (AnyMAL), a unified model that reasons over diverse input modality signals (i.e. text, image, video, audio, IMU motion sensor), and generates textual responses.
-  
+* [God Tier Prompts](https://www.godtierprompts.com) A community driven leaderboard where the best prompts rise to the top.
+
 ### DALL·E 3
 * [DALL·E 3](https://openai.com/dall-e-3) DALL·E 3 understands significantly more nuance and detail than our previous systems, allowing you to easily translate your ideas into exceptionally accurate images.
 * [DALL_E_3_System_Card](https://cdn.openai.com/papers/DALL_E_3_System_Card.pdf)
