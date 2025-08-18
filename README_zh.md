@@ -69,7 +69,6 @@
 * [试过GPT-4V后，微软写了个166页的测评报告，业内人士：高级用户必读](https://mp.weixin.qq.com/s/8FtR6JcEFVcRLWCaANXQ6g) 论文中文版 [PDF](papers/GPT-4V-zh.pdf)
 * [ChatGPT多模态解禁，网友玩疯！拍图即生代码，古卷手稿一眼识别，图表总结超6](https://mp.weixin.qq.com/s/FfiPJpxNrQpHxmOxBpDyHg)
 * [AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model](https://huggingface.co/papers/2309.16058) 我们提出了任意模态增强语言模型（AnyMAL），这是一个统一的模型，可以对不同的输入模态信号（即文本、图像、视频、音频、IMU 运动传感器）进行推理，并生成文本。
-* [God Tier Prompts](https://www.godtierprompts.com) 一个由社区驱动的排行榜，让最好的提示脱颖而出。
 
   
 ### DALL·E 3
