@@ -14,6 +14,7 @@ We hope you find these prompts useful and have fun!
 
 ## Contents
 - [Contents](#contents)
+- [2026 Update: Multimodal Models Worth Prompting](#2026-update-multimodal-models-worth-prompting)
 - [Articles and Resources](#articles-and-resources)
   - [DALL·E 3](#dalle-3)
 - [Methods](#methods)
@@ -66,6 +67,23 @@ We hope you find these prompts useful and have fun!
 - [Audios](#audios)
 - [Multimodal Model](#multimodal-model)
 - [Star History](#star-history)
+
+## 2026 Update: Multimodal Models Worth Prompting
+
+> Added 2026-08. The GPT-4V / DALL·E 3 material below still reads well as technique; these are the models people actually prompt today.
+
+| Model | Developer | Link | Notes |
+|---|---|---|---|
+| Claude 5 family (Fable 5 / Opus 5 / Sonnet 5) | Anthropic | [docs](https://platform.claude.com/docs/en/about-claude/models/overview) | Text + image input, 1M context, adaptive thinking (Jun–Jul 2026) |
+| GPT-5.6 (Luna / Terra / Sol) | OpenAI | [openai.com](https://openai.com/index/gpt-5-6/) | Jul 2026 three-tier family |
+| Gemini 3.7 Flash / 3.1 Pro / Gemini Omni 1.1 Flash | Google | [changelog](https://ai.google.dev/gemini-api/docs/changelog) | 3.7 Flash GA Aug 2026; Omni 1.1 Flash = conversational video generation & editing |
+| Kimi K3 | Moonshot AI | [GitHub](https://github.com/MoonshotAI/Kimi-K3) | Open-weight 2.8T **native** multimodal (text / image / video), 1M context |
+| Qwen3-VL · Qwen3-Omni · Qwen3.8 | Alibaba | [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) · [Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni) · [Qwen3.8](https://github.com/QwenLM/Qwen3.8) | Omni: text / image / audio / video in, real-time speech out |
+| Doubao-Seed-2.0 · Seedream 5.0 · Seedance 2.0 | ByteDance | [news](https://www.qbitai.com/2026/02/380355.html) | Feb 2026; strong chart / spatial / long-video understanding; Seedream = image, Seedance = video |
+| Llama 4 (Scout / Maverick) | Meta | [developer.meta.com](https://developer.meta.com/ai/models/llama-4/) | Open-weight native multimodal MoE, image tokens `<\|image_start\|>…` |
+| Unlimited-OCR | Baidu | [GitHub](https://github.com/baidu/Unlimited-OCR) | Jun 2026 open OCR / document-parsing model, one-shot long-horizon parsing |
+| DeepSeek-OCR-2 | DeepSeek | [GitHub](https://github.com/deepseek-ai/DeepSeek-OCR-2) | Vision-as-compression OCR line |
+| Wan 2.2 · HunyuanVideo 1.5 · LTX-Video | Alibaba / Tencent / Lightricks | [Wan2.2](https://github.com/Wan-Video/Wan2.2) · [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) · [LTX-Video](https://github.com/Lightricks/LTX-Video) | Leading open-weight video generators; see [Awesome-Open-Sora](https://github.com/EmbraceAGI/Awesome-Open-Sora) |
 
 ## Articles and Resources
 
