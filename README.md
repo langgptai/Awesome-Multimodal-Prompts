@@ -98,6 +98,9 @@ We hope you find these prompts useful and have fun!
 * [DALL·E 3](https://openai.com/dall-e-3) DALL·E 3 understands significantly more nuance and detail than our previous systems, allowing you to easily translate your ideas into exceptionally accurate images.
 * [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
 * [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
+* [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+* [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+* [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
 * [DALL_E_3_System_Card](https://cdn.openai.com/papers/DALL_E_3_System_Card.pdf)
 * [Prompt transformation makes ChatGPT OpenAI's covert moderator for DALL-E 3](https://the-decoder.com/prompt-transformation-makes-chatgpt-openais-covert-moderator-for-dall-e-3/)
 * [DALLE3 Gallery for October 2023: Share Your Creations](https://community.openai.com/t/dalle3-gallery-for-october-2023-share-your-creations/431189/1)
