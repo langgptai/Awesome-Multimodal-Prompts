@@ -2,7 +2,7 @@
  </h1></p>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-[![Code License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/yzfly/Awesome-Multimodal-Prompts/blob/main/LICENSE)
+[![Code License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/langgptai/Awesome-Multimodal-Prompts/blob/main/LICENSE)
 
 欢迎来到“Awesome Multimodal Prompts”！这里会展示多种多样用于多模态大语言模型（GPT-4V）的提示词工程案例。
 只需要简单复制这个资源项目，并且在GPT-4V中输入readme.md文件的prompts，就能开始使用这个资源库。

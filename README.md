@@ -1,7 +1,7 @@
 <p align="center"><h1>🧠 Awesome Multimodal Prompts </h1></p>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-[![Code License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/yzfly/Awesome-Multimodal-Prompts/blob/main/LICENSE)
+[![Code License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/langgptai/Awesome-Multimodal-Prompts/blob/main/LICENSE)
 [![简体中文 badge](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Simplified%20Chinese-blue)](README_zh.md)
 
 [中文文档](README_zh.md)
@@ -529,7 +529,7 @@ TBD
 |Name |Stars| About | Notes |
 -|-|-|-
 |[🌋 LLaVA: Large Language and Vision Assistant](https://github.com/haotian-liu/LLaVA) |![GitHub Repo stars](https://badgen.net/github/stars/haotian-liu/LLaVA)|[NeurIPS 2023 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards multimodal GPT-4 level capabilities.|-|
-|[CogVLM](https://github.com/THUDM/CogVLM) |![GitHub Repo stars](https://badgen.net/github/stars/THUDM/CogVLM)|A state-of-the-art-level open visual language model.|CogVLM 是一个强大的开源视觉语言模型，利用视觉专家模块深度整合语言编码和视觉编码，在 14 项权威跨模态基准上取得了 SOTA 性能。目前仅支持英文，后续会提供中英双语版本支持，欢迎持续关注！|
+|[CogVLM](https://github.com/zai-org/CogVLM) |![GitHub Repo stars](https://badgen.net/github/stars/zai-org/CogVLM)|A state-of-the-art-level open visual language model.|CogVLM 是一个强大的开源视觉语言模型，利用视觉专家模块深度整合语言编码和视觉编码，在 14 项权威跨模态基准上取得了 SOTA 性能。目前仅支持英文，后续会提供中英双语版本支持，欢迎持续关注！|
 
 ## Star History
 
