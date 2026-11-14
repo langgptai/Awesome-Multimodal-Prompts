@@ -63,10 +63,15 @@
 
 ## 2026 更新：值得写提示词的多模态模型
 
-> 2026-08 新增。下方 GPT-4V / DALL·E 3 的内容作为技法仍然适用，这里列出当下真正在用的模型。
+> 2026-08 新增，2026-11 更新。下方 GPT-4V / DALL·E 3 的内容作为技法仍然适用，这里列出当下真正在用的模型。
 
 | 模型 | 开发方 | 链接 | 说明 |
 |---|---|---|---|
+| GPT-6 家族（Astra / Sol / Luna、GPT-6.1 Sol） | OpenAI | [更新日志](https://developers.openai.com/api/docs/changelog) | Astra 2026-09-03 发布；Sol / Luna 9 月 22 日；6.1 Sol 9 月 29 日。支持图像输入，Astra 上下文 1.05M |
+| GPT-Image-2.6 Sunburst / Flare | OpenAI | [图像提示指南](https://developers.openai.com/api/docs/guides/image-prompting) | 2026-11-04 发布的生图与编辑模型：可调复杂度，支持 SVG 与 GIF 动图输出 |
+| Gemini 4 Carbon / Argon / Hydrogen | Google | [Hydrogen 发布博客](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) | 2026 年 10–11 月；Hydrogen（11 月 12 日）为快速模型，新增 `xhigh` 思考档，1M 上下文内统一计价 |
+| Qwen4-Max-Preview | 阿里巴巴 | [文档](https://www.alibabacloud.com/help/en/model-studio/qwen4-max-preview) | 2026 年 11 月 11–25 日预览；文本 / 图像 / 视频输入，1M 上下文 |
+| Muse Spark Open | Meta | [Hugging Face](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B) | 2026-10-15 开放权重，816B-A42B MoE，文本 / 图像 / 视频 / 音频输入，Meta 自定义 Muse Model License |
 | Claude 5 family (Fable 5 / Opus 5 / Sonnet 5) | Anthropic | [docs](https://platform.claude.com/docs/en/about-claude/models/overview) | Text + image input, 1M context, adaptive thinking (Jun–Jul 2026) |
 | GPT-5.6 (Luna / Terra / Sol) | OpenAI | [openai.com](https://openai.com/index/gpt-5-6/) | Jul 2026 three-tier family |
 | Gemini 3.7 Flash / 3.1 Pro / Gemini Omni 1.1 Flash | Google | [changelog](https://ai.google.dev/gemini-api/docs/changelog) | 3.7 Flash GA Aug 2026; Omni 1.1 Flash = conversational video generation & editing |

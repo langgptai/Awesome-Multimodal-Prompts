@@ -70,10 +70,15 @@ We hope you find these prompts useful and have fun!
 
 ## 2026 Update: Multimodal Models Worth Prompting
 
-> Added 2026-08. The GPT-4V / DALL·E 3 material below still reads well as technique; these are the models people actually prompt today.
+> Added 2026-08, updated 2026-11. The GPT-4V / DALL·E 3 material below still reads well as technique; these are the models people actually prompt today.
 
 | Model | Developer | Link | Notes |
 |---|---|---|---|
+| GPT-6 family (Astra / Sol / Luna, GPT-6.1 Sol) | OpenAI | [changelog](https://developers.openai.com/api/docs/changelog) | Astra Sep 3, 2026; Sol / Luna Sep 22; 6.1 Sol Sep 29. Image input; Astra has a 1.05M context |
+| GPT-Image-2.6 Sunburst / Flare | OpenAI | [image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting) | Nov 4, 2026 image generation & editing: adjustable complexity, SVG and animated GIF output |
+| Gemini 4 Carbon / Argon / Hydrogen | Google | [Hydrogen blog](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) | Oct–Nov 2026; Hydrogen (Nov 12) is the fast model with `xhigh` thinking and flat pricing across 1M context |
+| Qwen4-Max-Preview | Alibaba | [docs](https://www.alibabacloud.com/help/en/model-studio/qwen4-max-preview) | Nov 11–25, 2026 preview; text / image / video input, 1M context |
+| Muse Spark Open | Meta | [Hugging Face](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B) | Oct 15, 2026 open weights, 816B-A42B MoE, text / image / video / audio input, custom Muse Model License |
 | Claude 5 family (Fable 5 / Opus 5 / Sonnet 5) | Anthropic | [docs](https://platform.claude.com/docs/en/about-claude/models/overview) | Text + image input, 1M context, adaptive thinking (Jun–Jul 2026) |
 | GPT-5.6 (Luna / Terra / Sol) | OpenAI | [openai.com](https://openai.com/index/gpt-5-6/) | Jul 2026 three-tier family |
 | Gemini 3.7 Flash / 3.1 Pro / Gemini Omni 1.1 Flash | Google | [changelog](https://ai.google.dev/gemini-api/docs/changelog) | 3.7 Flash GA Aug 2026; Omni 1.1 Flash = conversational video generation & editing |
